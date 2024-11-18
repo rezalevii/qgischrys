@@ -1,0 +1,1 @@
+var json_goverment_8 = {"type":"FeatureCollection","name":"goverment_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nama":"Kantor Kepala Desa Klapagading Kulon"},"geometry":{"type":"Point","coordinates":[109.062977048945839,-7.518771130256959]}}]}
